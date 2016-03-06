@@ -14,3 +14,7 @@ Clone it, head into the project and then run:
 ```
 sass-convert -F sass -T scss -i -R ./ && find . -iname "*.sass" -exec bash -c 'mv "$0" "${0%\.sass}.scss"' {} \;
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/abdulhamid-alattar/sass-foundation-boilerplate/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
